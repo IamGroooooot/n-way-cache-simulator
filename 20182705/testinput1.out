@@ -1,0 +1,32 @@
+0x00000004 | miss
+0x00000005 | hit
+0x00000006 | hit
+0x00000007 | hit
+0x00000008 | miss
+0x00000009 | hit
+0x0000000A | hit
+0x0000000B | hit
+0x0000000C | miss
+0x0000000D | hit
+0x0000000E | hit
+0x0000000F | hit
+0x00000011 | miss
+0x00000012 | hit
+0x00000015 | miss
+0x0000001A | miss
+0x0000001A | hit
+0x00010010 | miss
+0x0001000A | miss
+0x00010000 | miss
+0x0000901A | miss
+0x00000011 | miss
+0x00000000 | miss
+0x00000000 | hit
+0x00000004 | hit
+0x00000004 | hit
+0x00000555 | miss
+0x0000000F | hit
+---------------------------------
+>> number of cache hits: 15
+>> number of cache misses: 13
+---------------------------------

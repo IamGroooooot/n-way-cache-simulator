@@ -1,0 +1,41 @@
+0x00000004 | miss
+0x00000004 | hit
+0x01000008 | miss
+0x0000A004 | miss
+0x01002008 | miss
+0x00001004 | miss
+0x0000A004 | hit
+0x0F000004 | miss
+0x00000007 | miss
+0x0000B008 | miss
+0x00000007 | hit
+0x01002008 | hit
+0x0000A004 | miss
+0x00000004 | hit
+0x01000008 | miss
+0x00001004 | miss
+0x00001004 | hit
+0x00000007 | miss
+0x00000004 | hit
+0x0000A004 | miss
+0x0000A004 | hit
+0x0F000004 | miss
+0x00000007 | miss
+0x0000B008 | hit
+0x0000B008 | hit
+0x0000A004 | miss
+0x00001004 | miss
+0x00000007 | miss
+0x00001004 | hit
+0x00000004 | hit
+0x0000A004 | miss
+0x0F000004 | miss
+0x0000A004 | hit
+0x00001004 | miss
+0x0000B008 | hit
+0x00000007 | miss
+0x00000007 | hit
+---------------------------------
+>> number of cache hits: 15
+>> number of cache misses: 22
+---------------------------------
